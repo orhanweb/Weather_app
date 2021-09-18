@@ -24,7 +24,5 @@ If you want to enter a city yourself instead of the default value, simply press 
 
 The application consists of two pages, I am sure you will understand easily.<br><br>
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-
 I don't think I need to explain the rest.
 <br> Good working to you guys.
